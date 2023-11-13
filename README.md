@@ -50,10 +50,10 @@ Now, you should be able to use `appstoreinfo` from the command line.
    ```bash
    appstoreinfo <app-store-id>
    ```
-Replace <app-store-id> with the actual App Store ID of the iOS app.
+Replace `<app-store-id>` with the actual App Store ID of the iOS app.
 ## 使用方法
 ### 语法
    ```bash
    appstoreinfo <app-store-id>
    ```
-将 <app-store-id> 替换为iOS应用的实际App Store ID。
+将 `<app-store-id>` 替换为iOS应用的实际App Store ID。
