@@ -2,7 +2,9 @@
 ## Introduction
 AppStoreInfo is a simple command-line tool that retrieves the bundle identifier (package name) of an iOS app on the Apple App Store using its App Store ID.
 ## 简介
+
 AppStoreInfo是一个简单的命令行工具，通过应用在苹果App Store上的App Store ID，获取iOS应用的Bundle Identifier（包名）。
+
 --- 
 ## Installation
 ### Prerequisites
