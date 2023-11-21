@@ -3,7 +3,6 @@
 AppStoreInfo is a simple command-line tool that retrieves the bundle identifier (package name) of an iOS app on the Apple App Store using its App Store ID.
 ## 简介
 AppStoreInfo是一个简单的命令行工具，通过应用在苹果App Store上的App Store ID，获取iOS应用的Bundle Identifier（包名）。
---- 
 ## Installation
 ### Prerequisites
 - Swift installed on your machine
@@ -51,10 +50,10 @@ Now, you should be able to use `appstoreinfo` from the command line.
    ```bash
    appstoreinfo <app-store-id>
    ```
-Replace <app-store-id> with the actual App Store ID of the iOS app.
+Replace `<app-store-id>` with the actual App Store ID of the iOS app.
 ## 使用方法
 ### 语法
    ```bash
    appstoreinfo <app-store-id>
    ```
-将 <app-store-id> 替换为iOS应用的实际App Store ID。
+将 `<app-store-id>` 替换为iOS应用的实际App Store ID。
